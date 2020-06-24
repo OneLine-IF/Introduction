@@ -1,2 +1,2 @@
 # Introduction
-OneLine 팀 소개
+### [OneLine 노션](https://www.notion.so/1line)
